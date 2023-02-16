@@ -27,6 +27,8 @@ Here are some ideas to get you started:
    
 ### My Stats :
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YanichChe&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+
+## Steak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YanichChe&theme=dark)](https://git.io/streak-stats)
 
 ## ✨Labs repositories:
