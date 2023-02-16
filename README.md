@@ -22,14 +22,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YanichChe&theme=dark)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YanichChe&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-
 ###  Language Stats:
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanichChe&hide=TeX&layout=compact&theme=dark&background=000000)
-
+   
+### My Stats :
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YanichChe&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YanichChe&theme=dark)](https://git.io/streak-stats)
 
 ## ✨Labs repositories:
 
