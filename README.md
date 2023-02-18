@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 ### My Stats :
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YanichChe&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-## Steak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YanichChe&theme=dark)](https://git.io/streak-stats)
-
 ## ✨Labs repositories:
 
 [![JAVA](https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=NSU_labs_java&theme=gotham&cache_seconds=2000)](https://github.com/YanichChe/NSU_labs_java)
