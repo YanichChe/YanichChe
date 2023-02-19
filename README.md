@@ -16,20 +16,23 @@ Here are some ideas to get you started:
 -->
 ### :hammer_and_wrench: Languages and Tools :
 
- <p>
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,java,cpp,github,linux,idea" />
   </a>
 </p>
 
 ###  Language Stats:
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanichChe&hide=TeX&layout=compact&theme=dark&background=000000)
-   
-### My Stats :
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YanichChe&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanichChe&hide=TeX&layout=compact&theme=dark&background=000000" height="163"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YanichChe&count_private=true&show_icons=true&include_all_commits=true&theme=dark" height="163" />
+</a>
+</p>
 
 ## ✨Labs repositories:
-
 [![JAVA](https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=NSU_labs_java&theme=gotham&cache_seconds=2000)](https://github.com/YanichChe/NSU_labs_java)
 [![C++](https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=NSU_labs_CXX&theme=gotham&cache_seconds=2000)](https://github.com/YanichChe/NSU_labs_CXX)
 [![EVM](https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=EVM&theme=gotham&cache_seconds=2000)](https://https://github.com/YanichChe/EVM)
