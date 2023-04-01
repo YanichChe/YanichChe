@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=EVM&theme=gotham&cache_seconds=2000)](https://https://github.com/YanichChe/EVM" weight=50%/>
 </a>
  <a href="https://github.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=NSU_labs_OPP]&theme=gotham&cache_seconds=2000)](https://https://github.com/YanichChe/OPP" weight=50%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=NSU_labs_OPP]&theme=gotham&cache_seconds=2000)](https://https://github.com/YanichChe/NSU_labs_OPP" weight=50%/>
 </a>
  <a href="https://github.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanichChe&repo=NSU_labs_C&theme=gotham&cache_seconds=2000)](https://github.com/YanichChe/NSU_labs_C" weight=50%/>
