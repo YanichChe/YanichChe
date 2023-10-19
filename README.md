@@ -1,24 +1,22 @@
 <h1>Hi there 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=YanichChe"/>
 
-<!--
-**YanichChe/YanichChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### :hammer_and_wrench: Languages and Tools :
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanichChe&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YanichChe&theme=solarized_dark)
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,java,cpp,github,linux,idea" />
-  </a>
 </p>
+
+<h2>Languages</h2>
+
+<img src="https://skillicons.dev/icons?i=c,java,cpp,js" />
+
+<h2>Library/Framework</h2>
+<img src="https://skillicons.dev/icons?i=spring,react" />
+
+<h2>DataBase</h2>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,hibernate" />
+
+<h2>Tools</h2>
+<img src="https://skillicons.dev/icons?i=linux,maven,idea,git,github,gitlab,postman,docker,apache" />
