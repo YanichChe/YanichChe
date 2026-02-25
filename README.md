@@ -10,13 +10,13 @@
 
 <h2>Languages</h2>
 
-<img src="https://skillicons.dev/icons?i=c,java,cpp,js" />
+<img src="https://skillicons.dev/icons?i=kotlin,ts,c,java,cpp,js" />
 
 <h2>Library/Framework</h2>
-<img src="https://skillicons.dev/icons?i=spring,react" />
+<img src="https://skillicons.dev/icons?i=ktor,spring,react,angular" />
 
 <h2>DataBase</h2>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,hibernate" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate" />
 
 <h2>Tools</h2>
 <img src="https://skillicons.dev/icons?i=linux,maven,idea,git,github,gitlab,postman,docker,apache" />
